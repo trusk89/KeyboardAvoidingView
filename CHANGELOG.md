@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 `KeyboardAvoidingView` adheres to [Semantic Versioning](http://semver.org/).
 
+## [5.0.2](https://github.com/APUtils/KeyboardAvoidingView/releases/tag/5.0.1)
+Released on 2021-04-07.
+
+#### Added
+- Added Swift Package Manager Support
 
 ## [5.0.1](https://github.com/APUtils/KeyboardAvoidingView/releases/tag/5.0.1)
 Released on 2020-08-06.

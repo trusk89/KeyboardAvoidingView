@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ViewState",
+        "repositoryURL": "https://github.com/APUtils/ViewState",
+        "state": {
+          "branch": null,
+          "revision": "79d554c6a8719b83850be7fa13c7fad0a060857c",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
